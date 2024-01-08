@@ -1,5 +1,8 @@
 # COMP1010 - Fall2023 - Introduction to GUI Programming with Python Tkinter and Public Web APIs
 
+## Lecture Notes
+You can find the Notion notes for this session here: https://tricolor-riddle-c08.notion.site/Introduction-to-GUI-Programming-with-Python-Tkinter-and-Public-Web-APIs-2834f6bcca264029864e1b08e7676340
+
 ## Required dependencies
 - `tk` (Tkinter)
 - `Pillow` (PIL)
